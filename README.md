@@ -1,10 +1,10 @@
 # fiesta nether
 
-This is the `world_nether` folder from FiestaSMP, the Minecraft server at fiestamc.neocities.org. Snapshot date: 2026-11-25. It contains the Nether only; the matching Overworld and End are not included here.
+This is the `world_nether` folder from FiestaSMP, the Minecraft server at fiestamc.neocities.org. Snapshot date: 2026-11-26. It contains the Nether only; the matching Overworld and End are not included here.
 
 ## download
 
-Open [Releases](https://github.com/open-fiestasmp/world-nether/releases), choose `snapshot-2026-11-25`, and download **Source code (zip)**. Extract it. The folder with `level.dat` at its top level is the Paper Nether world folder. Rename it `world_nether`; keep the files inside it, including `DIM-1`.
+Open [Releases](https://github.com/open-fiestasmp/world-nether/releases), choose `snapshot-2026-11-26`, and download **Source code (zip)**. Extract it. The folder with `level.dat` at its top level is the Paper Nether world folder. Rename it `world_nether`; keep the files inside it, including `DIM-1`.
 
 ## use it on a Paper server
 
